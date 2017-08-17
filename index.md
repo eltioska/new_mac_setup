@@ -67,7 +67,7 @@ Log in again & create a new admin account & use this one from now on.
 -----
 ### References:
 
-- https://stuartellis.name/articles/mac-setup
+- http://stuartellis.name/articles/mac-setup
 - http://sourabhbajaj.com/mac-setup
 - https://jaywcjlove.github.io/awesome-mac
 
