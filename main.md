@@ -6,10 +6,8 @@
 - Setting Up For Development
 
 ### Update & New Admin
-
-Log in, run Software Update & restart again.
-
-Log in again & create a new admin account & use this one from now on.
+- Log in, run Software Update & restart again.
+- Log in again & create a new admin account & use this one from now on.
 
 
 ### Configure User Account
@@ -26,6 +24,11 @@ Log in again & create a new admin account & use this one from now on.
 #### Safari Browser
 - _Safari > Preferences > General_ & deselect _Open safe files after downloading_.
 - _Safari > Preferences > Passwords_ & switch off password setting
+- _Safaro > View > Status Bar_
+
+#### Finder
+- _#ToDo:_ show status bar in finder
+- ...
 
 
 ### Configure Security
