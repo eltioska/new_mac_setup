@@ -7,6 +7,7 @@
 - Configure Security
 - Backups
 - Setting Up For Development
+- [Set up Services](services.md)
 - ...
 - References
 
