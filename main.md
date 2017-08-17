@@ -1,7 +1,7 @@
 ### Main Stuff
 - Update & New Admin
 - Configure User Account
-- Configure Security
+- [Configure Security](#configure-security)
 - Backups
 - Setting Up For Development
 
