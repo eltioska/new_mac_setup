@@ -1,3 +1,5 @@
+[home](index.md)
+
 ### References:
 
 - [http://stuartellis.name/articles/mac-setup](http://stuartellis.name/articles/mac-setup)
