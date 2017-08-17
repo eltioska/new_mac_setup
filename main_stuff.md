@@ -28,6 +28,9 @@
 - _Safari > Preferences > Passwords_ & switch off password setting
 - _Safaro > View > Status Bar_
 
+#### Dock
+- Set auto-hide
+
 #### Finder
 - _#ToDo:_ show status bar in finder
 - ...
