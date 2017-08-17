@@ -1,5 +1,5 @@
 ### Main Stuff
-- [Update & New Admin](#update-&-new-admin)
+- [Update & New Admin](#update-new-admin)
 - [Configure User Account](#configure-user-account)
 - [Configure Security](#configure-security)
 - [Backups](#backups)
