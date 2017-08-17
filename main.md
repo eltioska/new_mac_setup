@@ -1,9 +1,9 @@
 ### Main Stuff
-- Update & New Admin
-- Configure User Account
+- [Update & New Admin](#Update-&-New-Admin)
+- [Configure User Account](#Configure-User-Account)
 - [Configure Security](#configure-security)
-- Backups
-- Setting Up For Development
+- [Backups](#Backups)
+- [Setting Up For Development](#Setting-Up-For-Development)
 
 ### Update & New Admin
 - Log in, run Software Update & restart again.
