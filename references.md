@@ -5,4 +5,7 @@
 - [https://jaywcjlove.github.io/awesome-mac](https://jaywcjlove.github.io/awesome-mac)
 
 
+### Themes:
+ - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
 _Temp link to edit this page [editor on GitHub](https://github.com/eltioska/new_mac_setup/edit/master/index.md) to maintain and preview the content for your website in Markdown files._
