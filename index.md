@@ -7,9 +7,8 @@
 - Configure Security
 - Backups
 - Setting Up For Development
-
-- Ref
-
+- ...
+- References
 
 
 ### First things first: re-installing
@@ -49,7 +48,7 @@ Log in again & create a new admin account & use this one from now on.
 - Synology:
   - [Downloads Page](https://www.synology.com/en-global/support/download/DS214se#utilities)
   - CloudStation Drive
-  - 
+  - Hyper Backup Explorer (?)
 
 
 ### Setting Up For Development
