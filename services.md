@@ -1,6 +1,7 @@
+[home](index.md)
+
 ### Services
 
-- Homebrew
 - Alfred
 - Insync
 - Caffeine
