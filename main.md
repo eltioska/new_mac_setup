@@ -1,3 +1,5 @@
+[home](index.md)
+
 ### Main Stuff
 - [Update & New Admin](#update-new-admin)
 - [Configure User Account](#configure-user-account)
