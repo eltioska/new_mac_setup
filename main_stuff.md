@@ -1,6 +1,6 @@
 [home](index.md)
 
-### Main Stuff
+## Main Stuff
 - [Update & New Admin](#update-new-admin)
 - [Configure User Account](#configure-user-account)
 - [Configure Security](#configure-security)
@@ -56,6 +56,8 @@
 - Open terminal & run:
  `xcode-select --install`
  & accept the licence
+ - Run XCode once (from the Launcher) and accept the licence
+ 
 
 #### Homebrew
 - set up [Homebrew](https://brew.sh)
