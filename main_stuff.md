@@ -37,6 +37,10 @@
 - show the path bar: `defaults write com.apple.finder ShowPathbar -bool true`
 - show the status bar: `defaults write com.apple.finder ShowStatusBar -bool true`
 
+#### Change Screenshots Folder
+- `defaults write com.apple.screencapture location` _ADD A SPACE AFTER THIS_, open the file in Finder and drag the folder you want over to Terminal (which will insert the file path of the folder), or enter the location yourself.
+- hit Enter on your keyboard, then type in `killall SystemUIServer`
+- press Enter again and you're done.
 
 ### Configure Security
 - _System Preferences > Security & Privacy > FileVault_ & turn FileVault on
