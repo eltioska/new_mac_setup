@@ -4,6 +4,7 @@
 
 - [http://stuartellis.name/articles/mac-setup](http://stuartellis.name/articles/mac-setup)
 - [http://sourabhbajaj.com/mac-setup](http://sourabhbajaj.com/mac-setup)
+- [https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/](new mac setup)
 - [https://jaywcjlove.github.io/awesome-mac](https://jaywcjlove.github.io/awesome-mac)
 
 
