@@ -32,8 +32,10 @@
 - Set auto-hide
 
 #### Finder
-- _#ToDo:_ show status bar in finder
-- ...
+- show the Library Folder: `chflags nohidden ~/Library`
+- show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
+- show the path bar: `defaults write com.apple.finder ShowPathbar -bool true`
+- show the status bar: `defaults write com.apple.finder ShowStatusBar -bool true`
 
 
 ### Configure Security
@@ -61,4 +63,9 @@
 
 #### Homebrew
 - set up [Homebrew](https://brew.sh)
+- _no need to update the PATH since Homebrew now installs in /usr/local/_
+- check that Homebrew is installed correctly: `brew doctor`
+- update the index of available packages: `brew update`
+- _Note re path order: can also insert `/usr/local/bin` to the first line of `/private/etc/paths` and reboot in order to change the global paths loading order. Admin password may be required if you modify the file._
+- just in case: to set up Homebrew Cask: `brew cask` and then `brew cask list` (can do `brew tap cask` instead?)
 
