@@ -26,7 +26,7 @@
 #### Safari Browser
 - _Safari > Preferences > General_ & deselect _Open safe files after downloading_.
 - _Safari > Preferences > Passwords_ & switch off password setting
-- _Safaro > View > Status Bar_
+- _Safari > View > Status Bar_
 
 #### Dock
 - Set auto-hide
@@ -36,6 +36,12 @@
 - show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
 - show the path bar: `defaults write com.apple.finder ShowPathbar -bool true`
 - show the status bar: `defaults write com.apple.finder ShowStatusBar -bool true`
+- show full path in title bar: `defaults write com.apple.finder _FXShowPosixPathInTitle -bool true`
+- disable creation of DS_Store files on network volumes and USB drives: 
+  - `defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true`
+  - `defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true`
+- Enable unsigned programs flag in Gatekeeper _(If open, quit System Preferences first)_:
+  - `sudo spctl --master-disable`
 
 #### Change Screenshots Folder
 - `defaults write com.apple.screencapture location` _ADD A SPACE AFTER THIS_, open the file in Finder and drag the folder you want over to Terminal (which will insert the file path of the folder), or enter the location yourself.
@@ -47,8 +53,8 @@
 - _#ToDO:_ Set up Anti-Virus (Sophos / Avira ?)
 
 ### Backups
-- Time Machine
-- SuperDuper! (consider Carbon... coz of recovery partition)
+- _#ToDO:_ Time Machine
+- _#ToDO:_ SuperDuper! (consider Carbon... coz of recovery partition)
 - Synology:
   - [Downloads Page](https://www.synology.com/en-global/support/download/DS214se#utilities)
   - CloudStation Drive
