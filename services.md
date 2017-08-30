@@ -18,7 +18,6 @@
 - Mackup? (syncs settings to Dropbox)
 
 
-
 ### Utilities
 
 - AppCleaner
