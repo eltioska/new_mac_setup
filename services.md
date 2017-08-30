@@ -40,13 +40,15 @@
 
 ### Using Homebrew:
 
-+ `brew cask install alfred`
-+ `brew cask install bartender`
-+ `brew cask install bettertouchtool`
-+ `brew cask install flux`
-+ `brew cask install cheatsheet`
-+ `brew cask install cd-to`
- 
+```
+brew cask install alfred
+brew cask install bartender
+brew cask install bettertouchtool
+brew cask install flux
+brew cask install cheatsheet
+brew cask install cd-to
+```
+
 + `brew cask install dropbox`
 + `brew cask install insync`
 + `brew cask install windscribe`
