@@ -63,8 +63,8 @@
 + `brew cask install the-unarchiver`
 + `brew cask install default-folder-x` 
  
-`brew cask install evernote
-brew cask install simplenote
-brew cask install nvalt
-brew cask install mou
+`brew cask install evernote 
+brew cask install simplenote 
+brew cask install nvalt 
+brew cask install mou 
 brew cask install macdown`
