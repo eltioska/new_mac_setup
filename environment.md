@@ -6,6 +6,9 @@
 - Install & activate updated bash
 
 
+#### Git
+
+
 #### Terminal
  - iTerm2 
  
