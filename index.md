@@ -3,7 +3,7 @@
 ### Contents
 - [First things first: re-installing](clean_install.md)
 - [Main stuff](main_stuff.md)
-- [Environment](environment.md)
+- [Environment & Terminal](environment.md)
 - [Set up Services & Utilities](services.md)
 - [Web Browsers & Plugins](web_browsers.md)
 - [Dev Tools](dev_tools.md)
