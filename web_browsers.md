@@ -14,12 +14,12 @@
 
 ```
 brew cask install google-chrome
-~~brew cask install freesmug-chromium~~
 brew cask install firefox
 brew cask install opera
 brew cask install vivaldi
 brew cask install brave
 ```
+~~`brew cask install freesmug-chromium`~~
 
 Chrome Canary & Firefox Developer Edition are on a different Homebrew Tap, which needs to be enabled:
 [https://github.com/caskroom/homebrew-versions]
