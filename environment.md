@@ -7,9 +7,10 @@
 
 #### Terminal
  - iTerm2
- `brew cask install iterm2`
+  `brew cask install iterm2`
 
- - Fonts
+ - Fonts 
+ 
   ```
   # enable "tap":
   brew tap caskroom/fonts
