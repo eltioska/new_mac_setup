@@ -1,9 +1,10 @@
 [home](index.md)
 
-### Environment
+### Environment & Terminal
 
 #### Bash
 - Install & activate updated bash
+
 
 #### Terminal
  - iTerm2 
