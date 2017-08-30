@@ -6,6 +6,7 @@
 - [Environment & Terminal](environment.md)
 - [Set up Services & Utilities](services.md)
 - [Web Browsers & Plugins](web_browsers.md)
+- [Virtual Machine Setup](virtual_machines.md)
 - [Dev Tools](dev_tools.md)
 - [Dev Environment](dev_env.md)
 - [Other Apps](other_apps.md)
