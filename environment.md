@@ -6,7 +6,8 @@
 - Install & activate updated bash
 
 #### Terminal
- - iTerm2
+ - iTerm2 
+ 
   `brew cask install iterm2`
 
  - Fonts 
