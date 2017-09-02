@@ -54,11 +54,15 @@
 
 ### Backups
 - _#ToDO:_ Time Machine
-- _#ToDO:_ SuperDuper! (consider Carbon... coz of recovery partition)
+- _#ToDO:_ SuperDuper! (consider Carbon Copy Cloner coz of recovery partition)
 - Synology:
   - [Downloads Page](https://www.synology.com/en-global/support/download/DS214se#utilities)
   - CloudStation Drive
   - Hyper Backup Explorer (_#ToDo_)
+
+### Other
+- Disable auto-correct (e.g. it's annoying on skype)
+  - `defaults write -g NSAutomaticSpellingCorrectionEnabled -bool false`
 
 
 ### Setting Up For Development
