@@ -104,6 +104,8 @@ cask 'mou'
 
 And then run: 
 
-  `brew bundle install`
+```
+brew bundle install
+```
 
 to install them all at one go.
