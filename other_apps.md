@@ -4,7 +4,8 @@
 
 - VLC Media Player
 - Skype
-- Pocket
+- Pocket _(not available on homebrew)_
+- uTorrent _(not available on homebrew)_
 
 #### Using Homebrew:
 
