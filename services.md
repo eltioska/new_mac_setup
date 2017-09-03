@@ -102,6 +102,8 @@ cask 'nvalt'
 cask 'mou'
 ```
 
-And then run
+And then run: 
+
   `brew bundle install`
+
 to install them all at one go.
