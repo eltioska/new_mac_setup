@@ -40,6 +40,7 @@
 
 ### Using Homebrew:
 
+#### List of all commands to install one by one:
 ```
 brew cask install alfred
 brew cask install bartender
@@ -70,3 +71,37 @@ brew cask install nvalt
 brew cask install mou 
 brew cask install macdown
 ```
+
+#### Otherwise create a Brewfile with something like this:
+
+```
+tap 'caskroom/cask'
+
+cask 'alfred'
+cask 'bartender'
+cask 'bettertouchtool'
+cask 'flux'
+cask 'cheatsheet'
+cask 'cd-to'
+cask 'dropbox'
+cask 'insync'
+cask 'windscribe'
+cask 'tigervpn'
+cask 'appcleaner'
+cask 'ccleaner'
+cask 'diskwave'
+cask 'mediainfo'
+cask 'pdf-toolbox'
+cask 'desktoputility'
+cask 'namechanger'
+cask 'the-unarchiver'
+cask 'default-folder-x'
+cask 'evernote'
+cask 'simplenote'
+cask 'nvalt'
+cask 'mou'
+```
+
+And then run
+  `brew bundle install`
+to install them all at one go.
