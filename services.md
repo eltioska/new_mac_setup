@@ -33,12 +33,12 @@
 - CCleaner
 - DiskWave
 - Media Info
-- PDF Toolbox
-- Fluid
+~~- PDF Toolbox~~
+~~- Fluid~~
 - Desktop Utility
-- Name Changer
+~~- Name Changer~~
 - The Unarchiver
-- Default Folder X
+~~- Default Folder X~~
 
 
 ### Note-Taking Apps
