@@ -10,6 +10,7 @@
 - Calendar 2
 - Cheatsheet
 - cdto
+- [New File Menu](http://langui.net/new-file-menu/)
 
 - Dropbox
 - Insync
