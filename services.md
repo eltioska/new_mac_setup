@@ -17,6 +17,14 @@
 
 - Mackup? (syncs settings to Dropbox)
 
+#### Alfred:
+ - set shortcut key
+ - shortcut keys for snippets & clipboard
+ - set theme
+ - snippets
+ - workflows:
+   - VirtualBox
+   - Shortcut keys(?)
 
 ### Utilities
 
