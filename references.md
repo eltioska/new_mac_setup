@@ -8,7 +8,15 @@
 - [https://jaywcjlove.github.io/awesome-mac](https://jaywcjlove.github.io/awesome-mac)
 
 
-### Themes:
- - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+### macOS Keyboard Shortcuts:
+
+- [official apple list](https://support.apple.com/en-us/HT201236)
+- [MacRumors](http://guides.macrumors.com/Keyboard_shortcuts)
+- [Dan Rodney's List of Mac Shortcuts](https://www.danrodney.com/mac/)
+
+
+### GitHub Pages/Jekyll Themes:
+
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 _Temp link to edit this page [editor on GitHub](https://github.com/eltioska/new_mac_setup/edit/master/index.md) to maintain and preview the content for your website in Markdown files._
