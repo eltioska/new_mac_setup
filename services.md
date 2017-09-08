@@ -25,7 +25,22 @@
  - snippets
  - workflows:
    - VirtualBox
-   - Shortcut keys(?)
+   - Shortcut keys _(use BetterTouchTool instead)_
+
+#### BetterTouchTool:
+ _set keyboard shortcuts*
+ - **_key sequence_** CAPS CAPS toggle caps lock on/off
+ - ⌃⌥↑ maximize window
+ - ⌃⌥↓ restore old window size
+ - ⌃⌥← maximize window left
+ - ⌃⌥→ maximize window right
+ - Fn⌃⌥← open native osx split view for window (left)
+ - Fn⌃⌥→ open native osx split view for window (right)
+ - ⌘F3 center window
+ - **_key sequence_** ⌥MM start/stop moving
+ - ⌃⌘1 launch Google Chrome
+ - ⌃⌘3 launch NV Alt
+ - ⇧F10 show menu bar in context menu
 
 ### Utilities
 
