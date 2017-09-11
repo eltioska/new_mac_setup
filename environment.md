@@ -50,6 +50,7 @@ echo $BASH && echo $BASH_VERSION
 
 
 #### Terminal
+
  - iTerm2 
  
   `brew cask install iterm2`
@@ -67,5 +68,72 @@ echo $BASH && echo $BASH_VERSION
   ```
 
 - Configure iTerm2
+ -- colour presets: start with "Solarized (Dark)" colour preset and reset foreground colour to #c7c7c7
+ -- set font to Source Code Pro Light 18px
+ -- set window blur & transparency
+
 
 #### Dotfiles
+
+- In the home directory '/Users/<username>' create a bash profile:
+
+```
+touch .bash_profile
+``` 
+
+_This will be empty except for a reference to load .bashrc. Contents of the file:_
+```
+# Load .bashrc if it exists
+test -f ~/.bashrc && source ~/.bashrc
+```
+
+- Create a bashrc file:
+
+```
+touch .bashrc
+``` 
+
+_This will be empty except for references to load the environment variables, aliases, customised prompt, useful functions, and config for python virtualenvs. Contents of the file:_
+
+```
+# Load .env if it exists
+test -f ~/dotfiles/.env && source ~/dotfiles/.env
+
+# Load .aliases if it exists
+test -f ~/dotfiles/.aliases && source ~/dotfiles/.aliases
+
+# Load .prompt if it exists
+test -f ~/dotfiles/.prompt && source ~/dotfiles/.prompt
+
+# Load .functions if it exists
+test -f ~/dotfiles/.functions && source ~/dotfiles/.functions
+
+# Load .venvsconf if it exists
+test -f ~/dotfiles/.venvsconf && source ~/dotfiles/.venvsconf
+
+```
+
+- dotfiles folder:
+ -- Create the folder: `mkdir dotfiles`
+ -- Create the files in this folder:
+ 
+ ```
+ touch .env
+ touch .aliases
+ touch .prompt
+ touch .functions
+ touch .venvsconf
+ ```
+ 
+ ### Install hombrew bash completion:
+ 
+ ```
+brew install bash-completion
+```
+And add the following to `/dotfiles/.env` file:
+```
+# Add tab completion for many Bash commands
+[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
+```
+
+ 
