@@ -14,6 +14,11 @@
 - [MacRumors](http://guides.macrumors.com/Keyboard_shortcuts)
 - [Dan Rodney's List of Mac Shortcuts](https://www.danrodney.com/mac/)
 
+### Bash:
+
+ - [Install Bash version 4 on MacOS X](https://gist.github.com/samnang/1759336)
+ - [Upgrade bash on your mac os !](https://coderwall.com/p/dmuxma/upgrade-bash-on-your-mac-os)
+
 
 ### GitHub Pages/Jekyll Themes:
 
