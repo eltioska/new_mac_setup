@@ -7,7 +7,7 @@
 - BetterTouch Tool
 - f.lux
 - ~~Caffeine~~ Amphetamine
-- Calendar 2
+- ~~Calendar~~ 2 Day-O 2 - Menu bar clock replacement with built-in calendar
 - Cheatsheet
 - cdto
 - [New File Menu](http://langui.net/new-file-menu/)
