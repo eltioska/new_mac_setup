@@ -57,7 +57,7 @@ _Install & activate updated bash_
 
 #### Terminal
 
- - iTerm2 
+- iTerm2 
   ```
    brew cask install iterm2
   ```
@@ -81,7 +81,7 @@ _Install & activate updated bash_
 
 #### Dotfiles
 
- - In the home directory '/Users/<username>' create a bash profile:
+- In the home directory '/Users/<username>' create a bash profile:
   ```
   touch .bash_profile
   ```
@@ -92,7 +92,7 @@ _Install & activate updated bash_
   test -f ~/.bashrc && source ~/.bashrc
   ```
 
- - Create a bashrc file:
+- Create a bashrc file:
   ```
   touch .bashrc
   ``` 
