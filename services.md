@@ -28,7 +28,7 @@
    - Shortcut keys _(use BetterTouchTool instead)_
 
 #### BetterTouchTool:
- _set keyboard shortcuts*
+ _set keyboard shortcuts_
  - **_key sequence_** CAPS CAPS toggle caps lock on/off
  - ⌃⌥↑ maximize window
  - ⌃⌥↓ restore old window size
