@@ -7,7 +7,7 @@
 - BetterTouch Tool
 - f.lux
 - ~~Caffeine~~ Amphetamine
-- ~~Calendar 2~~ Day-O - Menu bar clock replacement with built-in calendar
+- ~~Calendar 2~~ [Day-O 2](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar
 - Cheatsheet
 - cdto
 - [New File Menu](http://langui.net/new-file-menu/)
