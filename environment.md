@@ -130,14 +130,14 @@ _Install & activate updated bash_
  
  ### Install hombrew bash completion:
  
-  ```
-  brew install bash-completion
-  ```
-  And add the following to `/dotfiles/.env` file:
-  ```
-  # Add tab completion for many Bash commands
-  [ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
-  ```
+```
+brew install bash-completion
+```
+And add the following to `/dotfiles/.env` file:
+```
+# Add tab completion for many Bash commands
+[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
+```
 
 ### Terminal Tools
  - tree: __tree__ is a recursive directory listing command that produces a depth indented listing of files. 
