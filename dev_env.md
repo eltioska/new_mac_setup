@@ -91,3 +91,8 @@ git config --global core.excludesfile ~/.gitignore
 # adding .DS_Store to that list
 echo .DS_Store >> ~/.gitignore
 ```
+
+#### Docker
+- Install Docker for Mac
+
+
