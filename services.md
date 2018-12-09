@@ -61,6 +61,7 @@
 - Evernote
 - Standard Notes
 - ~~Simplenote~~ / NV-Alt
+- Standard Notes
 - Mou / MacDown
 - Typora
 - Trello
@@ -105,7 +106,9 @@ brew cask install nvalt
 ```
 ~~`brew cask install macdown `~~
 ```
+brew cask install standard-notes
 brew cask install mou 
+brew cask install typora
 brew cask install trello
 ```
 
@@ -141,7 +144,9 @@ cask 'default-folder-x'
 cask 'boostnote'
 cask 'evernote'
 cask 'nvalt'
+cask 'standard-notes'
 cask 'mou'
+cask 'typora'
 cask 'trello'
 ```
 
