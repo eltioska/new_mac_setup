@@ -2,10 +2,10 @@
 
 ### Browsers
 - Chrome
-- Chrome Canary
+- Chrome Canary (on 'versions' tap)
 - ~~Chromium~~
-- Firefox Nightly
-- Firefox Developer Edition
+- Firefox Nightly (on 'versions' tap)
+- Firefox Developer Edition (on 'versions' tap)
 - ~~Opera~~
 - Vivaldi
 - ~~Epic~~
@@ -14,7 +14,6 @@
 
 ```
 brew cask install google-chrome
-brew cask install firefox-nightly
 brew cask install opera
 brew cask install vivaldi
 brew cask install brave-browser
@@ -32,6 +31,7 @@ brew tap homebrew/cask-versions
 
 ```
 # then these can be installed:
+brew cask install firefox-nightly
 brew cask install google-chrome-canary
 brew cask install firefoxdeveloperedition
 ```
