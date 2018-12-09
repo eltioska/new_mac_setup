@@ -127,7 +127,7 @@ test -f ~/dotfiles/.venvsconf && source ~/dotfiles/.venvsconf
  
  ### Install hombrew bash completion:
  
- ```
+```
 brew install bash-completion
 ```
 And add the following to `/dotfiles/.env` file:
