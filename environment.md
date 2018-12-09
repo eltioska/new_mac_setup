@@ -61,7 +61,8 @@ _Install & activate updated bash_
   ```
    brew cask install iterm2
   ```
- - Fonts 
+
+- Fonts 
   ```
   # enable "tap":
   brew tap caskroom/fonts
@@ -80,7 +81,7 @@ _Install & activate updated bash_
 
 #### Dotfiles
 
-- In the home directory '/Users/<username>' create a bash profile:
+ - In the home directory '/Users/<username>' create a bash profile:
   ```
   touch .bash_profile
   ```
@@ -91,13 +92,12 @@ _Install & activate updated bash_
   test -f ~/.bashrc && source ~/.bashrc
   ```
 
-- Create a bashrc file:
+ - Create a bashrc file:
+  ```
+  touch .bashrc
+  ``` 
 
-```
-touch .bashrc
-``` 
-
-_This will be empty except for references to load the environment variables, aliases, customised prompt, useful functions, and config for python virtualenvs. Contents of the file:_
+  _This will be empty except for references to load the environment variables, aliases, customised prompt, useful functions, and config for python virtualenvs. Contents of the file:_
 
 ```
 # Load .env if it exists
