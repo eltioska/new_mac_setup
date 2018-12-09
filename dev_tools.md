@@ -7,9 +7,6 @@
 - Atom
 - Emacs: [EmacsMacPort](https://github.com/railwaycat/homebrew-emacsmacport)
 
-#### Docker
-- Install Docker for Mac
-
 #### Other
 - Liya database viewer
 - Hex Fiend
