@@ -20,7 +20,8 @@ brew install bash
 ```
 sudo bash -c "echo $(brew --prefix)/bin/bash >> /private/etc/shells"
 ```
-`#(brew --prefix)` is usually `usr/local/bin` but using the variable is safer
+
+note that `#(brew --prefix)` is usually `usr/local/bin` but using the variable is safer
 
 - check:
   ```
