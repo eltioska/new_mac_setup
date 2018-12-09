@@ -50,7 +50,7 @@
 
 ### Configure Security
 - _System Preferences > Security & Privacy > FileVault_ & turn FileVault on
-- _#ToDO:_ Set up Anti-Virus (Sophos / Avira ?)
+- Set up Anti-Virus (Sophos / Avira ?)
 
 ### Backups
 - _#ToDO:_ Time Machine
