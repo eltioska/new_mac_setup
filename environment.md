@@ -17,11 +17,11 @@ brew install bash
 - homebrew installs the updated bash into `usr/local/bin/bash`
 
 - add the new bash to the list of legit shells (but for the current user, not for root):
-```
-sudo bash -c "echo $(brew --prefix)/bin/bash >> /private/etc/shells"
-```
+  ```
+  sudo bash -c "echo $(brew --prefix)/bin/bash >> /private/etc/shells"
+  ```
 
-note that `#(brew --prefix)` is usually `usr/local/bin` but using the variable is safer
+  note that `#(brew --prefix)` is usually `usr/local/bin` but using the variable is safer
 
 - check:
   ```
@@ -31,10 +31,12 @@ note that `#(brew --prefix)` is usually `usr/local/bin` but using the variable i
   cd /private/etc
   cat shells
   ```
-the last line should read
+  
+  the last line should read
   ```
   /usr/local/bin/bash
   ```
+  
 - change the shell for the user
   ```
   chsh -s /usr/local/bin/bash
@@ -54,11 +56,10 @@ the last line should read
 #### Terminal
 
  - iTerm2 
- 
-  `brew cask install iterm2`
-
+  ```
+   brew cask install iterm2
+  ```
  - Fonts 
- 
   ```
   # enable "tap":
   brew tap caskroom/fonts
@@ -78,15 +79,15 @@ the last line should read
 #### Dotfiles
 
 - In the home directory '/Users/<username>' create a bash profile:
-```
-touch .bash_profile
-```
+  ```
+  touch .bash_profile
+  ```
 
-_This will be empty except for a reference to load .bashrc. Contents of the file:_
-```
-# Load .bashrc if it exists
-test -f ~/.bashrc && source ~/.bashrc
-```
+  _This will be empty except for a reference to load .bashrc. Contents of the file:_
+  ```
+  # Load .bashrc if it exists
+  test -f ~/.bashrc && source ~/.bashrc
+  ```
 
 - Create a bashrc file:
 
