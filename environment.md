@@ -99,35 +99,34 @@ _Install & activate updated bash_
 
   _This will be empty except for references to load the environment variables, aliases, customised prompt, useful functions, and config for python virtualenvs. Contents of the file:_
 
-```
-# Load .env if it exists
-test -f ~/dotfiles/.env && source ~/dotfiles/.env
+  ```
+  # Load .env if it exists
+  test -f ~/dotfiles/.env && source ~/dotfiles/.env
 
-# Load .aliases if it exists
-test -f ~/dotfiles/.aliases && source ~/dotfiles/.aliases
+  # Load .aliases if it exists
+  test -f ~/dotfiles/.aliases && source ~/dotfiles/.aliases
 
-# Load .prompt if it exists
-test -f ~/dotfiles/.prompt && source ~/dotfiles/.prompt
+  # Load .prompt if it exists
+  test -f ~/dotfiles/.prompt && source ~/dotfiles/.prompt
 
-# Load .functions if it exists
-test -f ~/dotfiles/.functions && source ~/dotfiles/.functions
+  # Load .functions if it exists
+  test -f ~/dotfiles/.functions && source ~/dotfiles/.functions
 
-# Load .venvsconf if it exists
-test -f ~/dotfiles/.venvsconf && source ~/dotfiles/.venvsconf
-
-```
+  # Load .venvsconf if it exists
+  test -f ~/dotfiles/.venvsconf && source ~/dotfiles/.venvsconf
+  ```
 
 - dotfiles folder:
  -- Create the folder: `mkdir dotfiles`
  -- Create the files in this folder:
  
- ```
- touch .env
- touch .aliases
- touch .prompt
- touch .functions
- touch .venvsconf
- ```
+   ```
+   touch .env
+   touch .aliases
+   touch .prompt
+   touch .functions
+   touch .venvsconf
+   ```
  
  ### Install hombrew bash completion:
  
