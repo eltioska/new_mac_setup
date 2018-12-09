@@ -5,7 +5,7 @@
 #### VirtualBox
 
 ```
- brew install virtualbox
+ brew cask install virtualbox
 ```
 
 
