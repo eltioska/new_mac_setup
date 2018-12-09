@@ -7,7 +7,7 @@
 - BetterTouch Tool
 - f.lux
 - ~~Caffeine~~ Amphetamine
-- ~~Calendar~~ 2 Day-O 2 - Menu bar clock replacement with built-in calendar
+- ~~Calendar 2~~ Day-O - Menu bar clock replacement with built-in calendar
 - Cheatsheet
 - cdto
 - [New File Menu](http://langui.net/new-file-menu/)
@@ -48,12 +48,12 @@
 - CCleaner
 - DiskWave
 - Media Info
-~~- PDF Toolbox~~
-~~- Fluid~~
+- ~~PDF Toolbox~~
+- ~~Fluid~~
 - Desktop Utility
-~~- Name Changer~~
+- ~~Name Changer~~
 - The Unarchiver
-~~- Default Folder X~~
+- ~~Default Folder X~~
 
 
 ### Note-Taking Apps
