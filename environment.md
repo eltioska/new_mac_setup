@@ -74,8 +74,10 @@ _Install & activate updated bash_
   ```
 
 - Configure iTerm2 
-  - open iTerm2, Press ⌘-i, and
-  - colour presets: start with "Solarized (Dark)" colour preset and reset foreground colour to ~~#c7c7c7~~ #0cd00c
+  - open iTerm2, (Press ⌘-i to change from terminal, to create a new profile press ⌘-,), and
+  - colour presets:
+    -- either start with "Solarized (Dark)" colour preset and reset foreground colour to ~~#c7c7c7~~ `0cd00c`
+    -- or start with normal Dark and set foreground colour to `00c200`
   - set font to Source Code Pro Light 18px
   - set window blur & transparency
 
