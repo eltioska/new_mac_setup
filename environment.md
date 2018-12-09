@@ -23,21 +23,21 @@ sudo bash -c "echo $(brew --prefix)/bin/bash >> /private/etc/shells"
 `#(brew --prefix)` is usually `usr/local/bin` but using the variable is safer
 
 - check:
-```
-cd /etc
-cat shells
+  ```
+  cd /etc
+  cat shells
 
-cd /private/etc
-cat shells
-```
+  cd /private/etc
+  cat shells
+  ```
 the last line should read
-```
-/usr/local/bin/bash
-```
+  ```
+  /usr/local/bin/bash
+  ```
 - change the shell for the user
-```
-chsh -s /usr/local/bin/bash
-```
+  ```
+  chsh -s /usr/local/bin/bash
+  ```
 - _If you go to System Preferences > Users & Groups > User > click the lock to make changes_
   _ right click on the user name & choose "Advanced", the login shell for the user should now read /usr/local/bin/bash_
 
