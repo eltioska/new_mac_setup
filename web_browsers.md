@@ -14,7 +14,7 @@
 
 ```
 brew cask install google-chrome
-brew cask install firefox
+brew cask install firefox-nightly
 brew cask install opera
 brew cask install vivaldi
 brew cask install brave-browser
