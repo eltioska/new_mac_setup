@@ -33,7 +33,7 @@ brew tap homebrew/cask-versions
 # then these can be installed:
 brew cask install firefox-nightly
 brew cask install google-chrome-canary
-brew cask install firefoxdeveloperedition
+brew cask install firefox-developer-edition
 ```
 
 ### Browser Plugins
