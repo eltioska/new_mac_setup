@@ -24,8 +24,8 @@
  - set theme
  - snippets
  - workflows:
-   - VirtualBox
-   - Shortcut keys _(use BetterTouchTool instead)_
+   - ~~VirtualBox~~ _(stopped working)_
+   - ~~Shortcut keys~~ _(use BetterTouchTool instead)_
 
 #### BetterTouchTool:
  _set keyboard shortcuts_
