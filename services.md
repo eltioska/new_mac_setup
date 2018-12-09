@@ -74,6 +74,7 @@ brew cask install alfred
 brew cask install bartender
 brew cask install bettertouchtool
 brew cask install flux
+brew cask install day-o
 brew cask install cheatsheet
 brew cask install cd-to-iterm
 
@@ -86,8 +87,10 @@ brew cask install appcleaner
 brew cask install ccleaner
 brew cask install diskwave
 brew cask install mediainfo
-brew cask install pdf-toolbox
-brew cask install fluid
+```
+~~`brew cask install pdf-toolbox`~~
+~~`brew cask install fluid`~~
+```
 brew cask install desktoputility
 brew cask install namechanger
 brew cask install the-unarchiver
@@ -95,10 +98,14 @@ brew cask install default-folder-x
  
 brew cask install boostnote
 brew cask install evernote 
-brew cask install simplenote 
+```
+~~`brew cask install simplenote `~~
+```
 brew cask install nvalt 
+```
+~~`brew cask install macdown `~~
+```
 brew cask install mou 
-brew cask install macdown
 brew cask install trello
 ```
 
@@ -116,6 +123,7 @@ cask 'alfred'
 cask 'bartender'
 cask 'bettertouchtool'
 cask 'flux'
+cask 'day-o'
 cask 'cheatsheet'
 cask 'cd-to-iterm'
 cask 'dropbox'
@@ -130,6 +138,7 @@ cask 'desktoputility'
 cask 'namechanger'
 cask 'the-unarchiver'
 cask 'default-folder-x'
+cask 'boostnote'
 cask 'evernote'
 cask 'nvalt'
 cask 'mou'
