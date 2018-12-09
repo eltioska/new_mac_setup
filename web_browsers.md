@@ -4,11 +4,11 @@
 - Chrome
 - Chrome Canary
 - ~~Chromium~~
-- Firefox
+- Firefox Nightly
 - Firefox Developer Edition
-- Opera
+- ~~Opera~~
 - Vivaldi
-- Epic
+- ~~Epic~~
 
 #### Homebrew Cask:
 
@@ -17,7 +17,7 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install opera
 brew cask install vivaldi
-brew cask install brave
+brew cask install brave-browser
 ```
 ~~`brew cask install freesmug-chromium`~~
 
@@ -26,12 +26,33 @@ Chrome Canary & Firefox Developer Edition are on a different Homebrew Tap, which
 
 ```
 # enable tap "versions":
-brew tap caskroom/versions
+brew tap homebrew/cask-versions
+```
+~~`brew tap caskroom/versions`~~
 
+```
 # then these can be installed:
 brew cask install google-chrome-canary
 brew cask install firefoxdeveloperedition
 ```
 
 ### Browser Plugins
-- ...
+- **_FireFox_**
+  - Bookmark Toolbar Menu Button
+  - Clear Browsing Data
+  - Containerise
+  - Cookie AutoDelete
+  - DuckDuckGo Privacy Essentials
+  - Element-Hider
+  - No Coin
+  - Privacy Badger
+  - Save Page WE
+  - Sea Containers
+  - Switch Container Plus
+  - Temporary Containers / Sticky Containers (Temp Containers overrides Sticky Containers, so either or)
+  - uBlock Origin
+  - Zoom Page WE
+- **_Chrome_**
+  - Authy
+  - Any Do
+  - LastPass
