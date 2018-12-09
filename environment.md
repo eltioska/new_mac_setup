@@ -53,7 +53,7 @@ _Install & activate updated bash_
 
 
 #### Git
- - See Git Section in Dev Environment Page
+ - See Git Section in [Dev Environment](dev_env.md) page
 
 #### Terminal
 
