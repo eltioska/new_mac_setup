@@ -16,7 +16,7 @@
 - Insync
 - VPN
 
-- Mackup? (syncs settings to Dropbox)
+- ~~Mackup? (syncs settings to Dropbox)~~
 
 #### Alfred:
  - set shortcut key
@@ -57,9 +57,13 @@
 
 
 ### Note-Taking Apps
+- Boostnote
 - Evernote
-- Simplenote / NV-Alt
+- Standard Notes
+- ~~Simplenote~~ / NV-Alt
 - Mou / MacDown
+- Typora
+- Trello
 
 
 ### Using Homebrew:
@@ -71,7 +75,7 @@ brew cask install bartender
 brew cask install bettertouchtool
 brew cask install flux
 brew cask install cheatsheet
-brew cask install cd-to
+brew cask install cd-to-iterm
 
 brew cask install dropbox
 brew cask install insync
@@ -89,14 +93,21 @@ brew cask install namechanger
 brew cask install the-unarchiver
 brew cask install default-folder-x
  
+brew cask install boostnote
 brew cask install evernote 
 brew cask install simplenote 
 brew cask install nvalt 
 brew cask install mou 
 brew cask install macdown
+brew cask install trello
 ```
 
 #### Otherwise create a Brewfile with something like this:
+
+First create an empty Brewfile:
+`touch Brewfile`
+
+Then populate it:
 
 ```
 tap 'caskroom/cask'
@@ -106,7 +117,7 @@ cask 'bartender'
 cask 'bettertouchtool'
 cask 'flux'
 cask 'cheatsheet'
-cask 'cd-to'
+cask 'cd-to-iterm'
 cask 'dropbox'
 cask 'insync'
 cask 'windscribe'
@@ -115,15 +126,14 @@ cask 'appcleaner'
 cask 'ccleaner'
 cask 'diskwave'
 cask 'mediainfo'
-cask 'pdf-toolbox'
 cask 'desktoputility'
 cask 'namechanger'
 cask 'the-unarchiver'
 cask 'default-folder-x'
 cask 'evernote'
-cask 'simplenote'
 cask 'nvalt'
 cask 'mou'
+cask 'trello'
 ```
 
 And then run: 
