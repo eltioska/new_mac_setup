@@ -5,10 +5,14 @@
 #### Bash
 _Install & activate updated bash_
 - check bash version:
-  `echo $BASH_VERSION`
+```
+echo $BASH_VERSION
+```
 
 - Install via homebrew:
-  `brew install bash`
+```
+brew install bash
+```
 
 - homebrew installs the updated bash into `usr/local/bin/bash`
 
@@ -44,7 +48,7 @@ chsh -s /usr/local/bin/bash
 
 
 #### Git
-
+ - See Git Section in Dev Environment Page
 
 #### Terminal
 
@@ -73,8 +77,9 @@ chsh -s /usr/local/bin/bash
 #### Dotfiles
 
 - In the home directory '/Users/<username>' create a bash profile:
-
-`touch .bash_profile` 
+```
+touch .bash_profile
+```
 
 _This will be empty except for a reference to load .bashrc. Contents of the file:_
 ```
