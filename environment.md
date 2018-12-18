@@ -143,22 +143,23 @@ _Install & activate updated bash_
 
 #### Install hombrew bash completion:
  
-```
-brew install bash-completion
-```
-And add the following to `/dotfiles/.env` file:
-```
-# Add tab completion for many Bash commands
-[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
-```
+ - Install
+    ```
+    brew install bash-completion
+    ```
+  - And add the following to `/dotfiles/.env` file:
+    ```
+    # Add tab completion for many Bash commands
+    [ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
+    ```
 
 #### Some homebrew / terminal tools:
-These are needed for other tools, such as `pyenv`
-```
-brew install openssl
-brew install readline
-brew install xz
-```
+  - These are needed for other tools, such as `pyenv`
+    ```
+    brew install openssl
+    brew install readline
+    brew install xz
+    ```
 
 
 #### Terminal Tools
