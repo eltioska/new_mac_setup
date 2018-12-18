@@ -152,7 +152,7 @@ And add the following to `/dotfiles/.env` file:
 [ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
 ```
 
-### Terminal Tools
+#### Terminal Tools
  - tree: __tree__ is a recursive directory listing command that produces a depth indented listing of files. 
    ```
    brew install tree
