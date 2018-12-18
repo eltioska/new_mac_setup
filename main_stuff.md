@@ -73,7 +73,10 @@
  `xcode-select --install`
  & accept the licence
  - Run XCode once (from the Launcher) and accept the licence
- 
+ - On macOS Mojave or higher (10.14+) also need to (install the additional SDK headers)[https://developer.apple.com/documentation/xcode_release_notes/xcode_10_release_notes#3035624]:
+   ```
+   sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
+   ```
 
 #### Homebrew
 - set up [Homebrew](https://brew.sh)
