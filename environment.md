@@ -130,8 +130,18 @@ _Install & activate updated bash_
    touch .functions
    touch .venvsconf
    ```
- 
- ### Install hombrew bash completion:
+
+- symlink dotfiles to keep a backup/sync:
+  ```
+  ln -s .aliases /target_folder/dotfiles/dot_aliases
+  ln -s .env /target_folder/dotfiles/dot_env
+  ln -s .functions /target_folder/dotfiles/dot_functions
+  ln -s .prompt /target_folder/dotfiles/dot_prompt
+  ln -s .venvsconf /target_folder/dotfiles/dot_venvsconf
+  ```
+
+
+#### Install hombrew bash completion:
  
 ```
 brew install bash-completion
@@ -146,4 +156,8 @@ And add the following to `/dotfiles/.env` file:
  - tree: __tree__ is a recursive directory listing command that produces a depth indented listing of files. 
    ```
    brew install tree
+   ```
+ - ccat: __ccat__ is coloured cat 
+   ```
+   brew install ccat
    ```
