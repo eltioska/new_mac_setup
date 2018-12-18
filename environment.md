@@ -152,6 +152,15 @@ And add the following to `/dotfiles/.env` file:
 [ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
 ```
 
+#### Some homebrew / terminal tools:
+These are needed for other tools, such as `pyenv`
+```
+brew install openssl
+brew install readline
+brew install xz
+```
+
+
 #### Terminal Tools
  - tree: __tree__ is a recursive directory listing command that produces a depth indented listing of files. 
    ```
